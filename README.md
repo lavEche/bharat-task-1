@@ -2,7 +2,8 @@
 
 This repository contains a project that focuses on predicting Bitcoin prices using Long Short-Term Memory (LSTM) neural networks. The project explores the cryptocurrency market's historical price data to develop predictive models for Bitcoin prices.
 
-![Bitcoin Price Prediction](bitcoin_prediction.png)
+![image](https://github.com/lavEche/bharat-task-1/assets/124572155/7111d27d-e9d9-4bc2-b781-5cc93fb14b7f)
+
 
 ## Overview
 
